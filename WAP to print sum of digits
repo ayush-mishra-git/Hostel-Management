@@ -1,11 +1,10 @@
 
-// Java program to compute
-// sum of digits in number.
+
 import java.io.*;
  
-class GFG {
+class rishabh {
  
-    /* Function to get sum of digits */
+  
     static int getSum(int n)
     {
         int sum = 0;
